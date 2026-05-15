@@ -18,11 +18,11 @@ This proposal recommends a Workplace AI Adoption Partnership. The program would 
 
 ## Problem Definition and Context
 
-Australia needs AI-enabled productivity growth, but AI benefits will not appear automatically. The National AI Plan frames AI policy around capturing opportunities, spreading benefits and keeping Australians safe. This creates a strong policy basis for an adoption plan that is both productivity-focused and worker-centred.
+Australia's policy challenge is not that firms lack access to AI tools. It is that AI use is often shallow, fragmented and weakly connected to workflow redesign. The National AI Plan frames the task as capturing AI opportunities, spreading benefits through widespread adoption and worker training, and keeping Australians safe (Australian Government 2025). This supports a productivity agenda, but it also implies that adoption must be trusted by workers.
 
-The key problem is an AI adoption-depth gap. Many firms are experimenting with tools such as generative AI, but experimentation is not the same as deep adoption. Deep adoption requires workflow redesign, role-specific training, data governance, worker consultation and management capability. Without these complementary investments, AI may produce shallow efficiency gains rather than sustained productivity growth.
+The immediate problem is an AI adoption-depth gap. RBA liaison evidence suggests firms expect AI to be productivity-enhancing over time, but adoption depends on trust, skills, workflow changes and managerial capacity (Reserve Bank of Australia 2025). Deloitte similarly reports that only 12% of Australian leaders say generative AI is already transforming their business or industry, compared with 25% globally (Deloitte 2026). This means many organisations are experimenting with AI without yet converting it into repeatable production capability.
 
-This problem matters because AI is a general-purpose technology. Like electricity or computing, AI requires new processes, skills and organisational routines before its full economic value appears. For Australia, the risk is not only job displacement. It is also slow diffusion, weak productivity growth, uneven wage effects and a widening gap between AI-ready organisations and the rest of the economy.
+For Australia, this gap matters because AI is a general-purpose technology. Its benefits require complementary investment in data systems, role-specific training, worker consultation and new organisational routines. Without that support, AI may produce isolated efficiency gains, uneven wage effects and workplace resistance instead of shared national productivity.
 
 ---
 
