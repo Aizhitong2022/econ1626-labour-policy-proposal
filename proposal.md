@@ -12,7 +12,7 @@
 
 Australia should move from AI experimentation to shared productivity through a firm-led but worker-protected workplace adoption plan. The immediate policy problem is not a simple mass-unemployment crisis. The more practical challenge is an AI adoption-depth gap: many organisations can access AI tools, but fewer have redesigned workflows, trained workers in role-specific AI use, or built trusted workplace governance.
 
-This proposal recommends a Workplace AI Adoption Partnership. The program would support anchor employers, public agencies and later SMEs to test role-specific AI training, task redesign and worker transition safeguards in healthcare and health administration, agriculture and agri-food, and advanced manufacturing and resources supply chains. Public funding should not support AI projects whose primary business case is headcount reduction. The goal is to raise productivity while keeping workers at the centre of AI transition.
+This proposal recommends a Workplace AI Adoption Partnership. It would support anchor employers, public agencies and later SMEs to test role-specific AI training, task redesign and worker safeguards in healthcare, agriculture and advanced manufacturing. Public funding should not support AI projects whose primary business case is headcount reduction. The goal is to raise productivity while keeping workers at the centre of AI transition.
 
 ---
 
@@ -20,7 +20,7 @@ This proposal recommends a Workplace AI Adoption Partnership. The program would 
 
 Australia's policy challenge is not that firms lack access to AI tools. It is that AI use is often shallow, fragmented and weakly connected to workflow redesign. The National AI Plan frames the task as capturing AI opportunities, spreading benefits through widespread adoption and worker training, and keeping Australians safe (Australian Government 2025). This supports a productivity agenda, but it also implies that adoption must be trusted by workers.
 
-The immediate problem is an AI adoption-depth gap. RBA liaison evidence suggests firms expect AI to be productivity-enhancing over time, but adoption depends on trust, skills, workflow changes and managerial capacity (Reserve Bank of Australia 2025). Deloitte similarly reports that only 12% of Australian leaders say generative AI is already transforming their business or industry, compared with 25% globally (Deloitte 2026). This means many organisations are experimenting with AI without yet converting it into repeatable production capability.
+The immediate problem is an AI adoption-depth gap. RBA liaison suggests firms expect AI to lift productivity over time, but adoption still depends on trust, skills, workflow change and managerial capacity (Reserve Bank of Australia 2025). Deloitte likewise finds that only 12% of Australian leaders say generative AI is already transforming their business or industry, compared with 25% globally (Deloitte 2026). Many organisations are therefore experimenting with AI without turning it into repeatable production capability.
 
 For Australia, this gap matters because AI is a general-purpose technology. Its benefits require complementary investment in data systems, role-specific training, worker consultation and new organisational routines. Without that support, AI may produce isolated efficiency gains, uneven wage effects and workplace resistance instead of shared national productivity.
 
@@ -42,11 +42,7 @@ Industry structure creates another challenge. Large firms and public agencies ar
 
 Three policy options are available. They should be evaluated against efficiency, equity, feasibility and implementation risk.
 
-| Policy option | Efficiency | Equity | Feasibility | Main weakness |
-|---|---|---|---|---|
-| AI Skills Micro-Credentials only | Medium | Medium | High | Training may remain disconnected from real workplace tasks |
-| Business AI Adoption Grants only | High potential | Low to medium | Medium | Funding may subsidise tools without worker training or task redesign |
-| Workplace AI Adoption Partnership | High | High | Medium to high | More complex to administer, but better aligned with the actual problem |
+![Policy options table](policy-options-table.png)
 
 The first option is to expand AI skills micro-credentials for workers. This would improve basic AI literacy and is relatively easy to deliver through existing education and training providers. However, training alone may not change production if workers return to workplaces where AI tools are unavailable, unsafe to use, or poorly connected to daily tasks.
 
@@ -62,7 +58,7 @@ This proposal recommends an 18-month Workplace AI Adoption Partnership. The prog
 
 The pilot should focus on three sectors aligned with Australia’s existing AI opportunity areas: healthcare and health administration, agriculture and agri-food, and advanced manufacturing and resources supply chains. Public agencies should participate as a parallel benchmark and capability partner, because government also needs to build internal AI capability and demonstrate trusted adoption.
 
-The program should begin with anchor employers rather than all firms at once. Large employers, major public agencies and industry leaders have stronger data systems, compliance capacity and training resources. Their role should be to test adoption models that can later be simplified and diffused to SMEs. To avoid public funding becoming corporate subsidy, anchor employers should co-contribute at least 50% of project costs. This contribution should include paid training time, workflow redesign, worker consultation, internal mobility support and reporting.
+The program should begin with anchor employers, not all firms at once. Large employers, major public agencies and industry leaders have stronger data, compliance and training capacity. Their role is to test adoption models that can later be simplified for SMEs. To avoid public funding becoming corporate subsidy, anchor employers should co-contribute at least 50% of project costs, including paid training time, workflow redesign, worker consultation, internal mobility support and reporting.
 
 The first six months should select anchor employers, identify high-value tasks and design role-specific training modules. Months six to twelve should implement AI training, worker consultation, secure tool access and task redesign. Months twelve to eighteen should evaluate outcomes and decide whether to scale, revise or stop the pilot. This timeline prevents the pilot from becoming a low-commitment consultation exercise.
 
