@@ -1,6 +1,7 @@
 # From AI Experiments to Shared Productivity: A Workplace Adoption Plan for Australia
 
-**From:** Zhixian Meng s4034214
+**To:** Deputy Secretary, Industry Growth, Department of Industry, Science and Resources  
+**From:** Zhixian Neng s4054214  
 **Subject:** Workplace AI Adoption Partnership for Australia  
 **Course:** ECON1626 Economics of Artificial Intelligence  
 **Assessment:** Assessment 2 Policy Proposal  
