@@ -58,15 +58,15 @@ The preferred option is a Workplace AI Adoption Partnership. This combines firm-
 
 ## Recommended Package and Implementation Plan
 
-This proposal recommends an 18-month Workplace AI Adoption Partnership. The program should be led by the Department of Industry, Science and Resources, with support from the Department of Employment and Workplace Relations, Jobs and Skills Australia, AI Adopt Centres, TAFE/VET providers, industry bodies and selected public agencies.
+This proposal recommends an 18-month Workplace AI Adoption Partnership. The program should be led by the Department of Industry, Science and Resources, with support from the Department of Employment and Workplace Relations, Jobs and Skills Australia, AI Adopt Centres, TAFE and VET providers, industry bodies and selected public agencies.
 
-The pilot should focus on three sectors identified as high-value AI opportunities for Australia: healthcare and health administration, agriculture and agri-food, and advanced manufacturing and resources supply chains. Public agencies should participate as a parallel benchmark and capability partner, not as a separate fourth industry.
+The pilot should focus on three sectors aligned with Australia’s existing AI opportunity areas: healthcare and health administration, agriculture and agri-food, and advanced manufacturing and resources supply chains. Public agencies should participate as a parallel benchmark and capability partner, because government also needs to build internal AI capability and demonstrate trusted adoption.
 
-The program should begin with anchor employers that have the resources to test AI adoption responsibly. These employers should co-contribute at least 50% of project costs through paid training time, workflow redesign, worker consultation, internal mobility support and reporting. Public funding should purchase spillovers: reusable training modules, task redesign templates, case studies and evaluation evidence that can later support SMEs.
+The program should begin with anchor employers rather than all firms at once. Large employers, major public agencies and industry leaders have stronger data systems, compliance capacity and training resources. Their role should be to test adoption models that can later be simplified and diffused to SMEs. To avoid public funding becoming corporate subsidy, anchor employers should co-contribute at least 50% of project costs. This contribution should include paid training time, workflow redesign, worker consultation, internal mobility support and reporting.
 
-The pilot should follow a clear timeline. In the first six months, government and industry partners should select anchor employers, identify high-value tasks and design role-specific training modules. From months six to twelve, employers should implement AI training, worker consultation and task redesign. From months twelve to eighteen, the program should evaluate results and decide whether to scale, revise or stop the pilot.
+The first six months should select anchor employers, identify high-value tasks and design role-specific training modules. Months six to twelve should implement AI training, worker consultation, secure tool access and task redesign. Months twelve to eighteen should evaluate outcomes and decide whether to scale, revise or stop the pilot. This timeline prevents the pilot from becoming a low-commitment consultation exercise.
 
-Key performance indicators should include training completion rates, worker satisfaction, AI-related grievances, redeployment outcomes, pilot-to-production rates, measurable productivity indicators and the number of reusable templates adopted by SMEs.
+Key performance indicators should include training completion rates, worker satisfaction, AI-related grievances, redeployment outcomes, pilot-to-production rates, measurable productivity indicators and the number of reusable templates adopted by SMEs. The central funding condition should be clear: no public funding should support AI projects whose primary business case is headcount reduction.
 
 ---
 
