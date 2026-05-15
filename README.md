@@ -1,5 +1,8 @@
 # econ1626-labour-policy-proposal
 
+**Author:** Zhixian Meng  
+**Student ID:** s4034214
+
 This repository contains my Assessment 2 policy proposal for ECON1626 Economics of Artificial Intelligence.
 
 ## Files
