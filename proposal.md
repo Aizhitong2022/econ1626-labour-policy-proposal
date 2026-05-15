@@ -1,10 +1,9 @@
 # From AI Experiments to Shared Productivity: A Workplace Adoption Plan for Australia
 
-**Policy client:** Deputy Secretary, Industry Growth, Department of Industry, Science and Resources  
-**Prepared by:** [Your Name]  
+**From:** Zhixian Meng s4034214
+**Subject:** Workplace AI Adoption Partnership for Australia  
 **Course:** ECON1626 Economics of Artificial Intelligence  
 **Assessment:** Assessment 2 Policy Proposal  
-**Target length:** 1,200 words (+/- 10%)
 
 ---
 
@@ -84,20 +83,20 @@ A final risk is weak implementation capability. AI adoption requires trust, data
 
 ## References
 
-Australian Government 2025, *National AI Plan*, Department of Industry, Science and Resources, viewed [insert date], <https://www.industry.gov.au/publications/national-ai-plan>.
+ABC News 2026, ‘Australia lacks national strategy to regulate AI spread in workplace, report states’, *ABC News*, 29 April, viewed 13 May 2026, <https://www.abc.net.au/news/2026-04-29/ai-workplace-regulation-federal-government/106611684>.
 
-Australian Public Service Commission 2025, *Australian Public Service AI Plan 2025*, viewed [insert date], <https://www.digital.gov.au/policy/ai/australian-public-service-ai-plan-2025>.
+Australian Council of Trade Unions 2026, ‘AI: Unions put corporate Australia on notice’, *ACTU*, 27 February, viewed 13 May 2026, <https://www.actu.org.au/media-release/ai-unions-put-corporate-australia-on-notice/>.
 
-Business.gov.au 2025, *Artificial Intelligence (AI) Adopt Program*, viewed [insert date], <https://business.gov.au/grants-and-programs/artificial-intelligence-ai-adopt-program>.
+Australian Government 2025, *National AI Plan*, Department of Industry, Science and Resources, viewed 13 May 2026, <https://www.industry.gov.au/publications/national-ai-plan>.
 
-Deloitte 2026, *State of AI in the Enterprise: Australia*, viewed [insert date], <https://www.deloitte.com/au/en/issues/generative-ai/state-of-ai-in-enterprise.html>.
+Australian Government 2025, *Artificial Intelligence (AI) Adopt Program*, Business.gov.au, viewed 13 May 2026, <https://business.gov.au/grants-and-programs/artificial-intelligence-ai-adopt-program>.
 
-Jobs and Skills Australia 2025, *Generative AI Capacity Study*, viewed [insert date], <https://www.jobsandskills.gov.au/publications/generative-ai-capacity-study-report>.
+Australian Government 2025, *AI Plan for the Australian Public Service 2025*, Digital Transformation Agency, viewed 13 May 2026, <https://www.digital.gov.au/policy/ai/australian-public-service-ai-plan-2025>.
 
-Productivity Commission 2025, *Harnessing data and digital technology*, viewed [insert date], <https://www.pc.gov.au/inquiries/current/data-digital>.
+Deloitte 2026, *The State of AI in the Enterprise: 2026 AI report*, Deloitte Australia, viewed 13 May 2026, <https://www.deloitte.com/au/en/issues/generative-ai/state-of-ai-in-enterprise.html>.
 
-Reserve Bank of Australia 2025, *Technology investment and AI: what are firms telling us?*, viewed [insert date], <https://www.rba.gov.au/publications/bulletin/2025/nov/technology-investment-and-ai-what-are-firms-telling-us.html>.
+Fernando, J, McLoughlin, K & Ratnayake, R 2025, ‘Technology investment and AI: what are firms telling us?’, *Reserve Bank of Australia Bulletin*, 13 November, viewed 13 May 2026, <https://www.rba.gov.au/publications/bulletin/2025/nov/technology-investment-and-ai-what-are-firms-telling-us.html>.
 
-ABC News 2026, *AI workplace regulation reporting*, viewed [insert date], <https://www.abc.net.au/>.
+Jobs and Skills Australia 2025, *Our Gen AI Transition: Implications for Work and Skills*, Jobs and Skills Australia, viewed 13 May 2026, <https://www.jobsandskills.gov.au/publications/generative-ai-capacity-study-report>.
 
-Australian Council of Trade Unions 2026, *AI: unions put corporate Australia on notice*, viewed [insert date], <https://www.actu.org.au/>.
+Productivity Commission 2025, *Harnessing Data and Digital Technology*, Inquiry report no. 111, Productivity Commission, Canberra, viewed 13 May 2026, <https://assets.pc.gov.au/2025-12/data-digital_0.pdf>.
