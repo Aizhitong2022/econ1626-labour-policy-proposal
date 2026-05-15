@@ -40,17 +40,19 @@ Industry structure creates another challenge. Large firms and public agencies ar
 
 ## Policy Options and Evaluation
 
+Three policy options are available. They should be evaluated against efficiency, equity, feasibility and implementation risk.
+
 | Policy option | Efficiency | Equity | Feasibility | Main weakness |
 |---|---|---|---|---|
 | AI Skills Micro-Credentials only | Medium | Medium | High | Training may remain disconnected from real workplace tasks |
 | Business AI Adoption Grants only | High potential | Low to medium | Medium | Funding may subsidise tools without worker training or task redesign |
 | Workplace AI Adoption Partnership | High | High | Medium to high | More complex to administer, but better aligned with the actual problem |
 
-The first option would expand AI literacy and short-course training for workers. This is useful, but it may not change workplace practice if firms do not redesign tasks or give employees safe access to AI tools.
+The first option is to expand AI skills micro-credentials for workers. This would improve basic AI literacy and is relatively easy to deliver through existing education and training providers. However, training alone may not change production if workers return to workplaces where AI tools are unavailable, unsafe to use, or poorly connected to daily tasks.
 
-The second option would support firms to adopt AI tools. This may improve productivity, but it risks subsidising software purchases without changing worker capability. It may also create political and industrial risk if public funding is linked to job reduction.
+The second option is to expand business AI adoption grants. This could accelerate investment and build on existing initiatives such as the AI Adopt Program, which supports SMEs to adopt responsible AI-enabled services (Business.gov.au 2025). However, grants focused mainly on tools may not guarantee worker capability, consultation or task redesign. They may also create political risk if firms use public support to justify headcount reduction.
 
-The third option combines adoption support with worker training, co-contribution and safeguards. It is the preferred option because it targets the actual bottleneck: the gap between AI experimentation and productive, trusted workplace adoption.
+The preferred option is a Workplace AI Adoption Partnership. This combines firm-level adoption support with role-specific worker training, employer co-contribution, task redesign and worker transition safeguards. It is more complex to administer, but it best matches the actual policy problem. Australia does not only need more AI tools or more generic training. It needs trusted workplace adoption systems that convert AI experimentation into repeatable productivity gains.
 
 ---
 
