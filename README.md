@@ -4,8 +4,9 @@ This repository contains my Assessment 2 policy proposal for ECON1626 Economics 
 
 ## Files
 
-- `proposal.md` contains the 1,200-word policy proposal.
+- The main body of `proposal.md` is approximately 1,300 words, which is within the 1,200-word limit with the allowed +/- 10% range.
 - `README.md` explains the repository structure and workflow.
+- `policy-options-table.png` is an image version of the policy options evaluation matrix used in `proposal.md` to improve readability and reduce Markdown word-count clutter.
 
 ## Topic
 
