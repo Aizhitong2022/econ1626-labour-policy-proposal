@@ -72,11 +72,13 @@ Key performance indicators should include training completion rates, worker sati
 
 ## Risks and Mitigations
 
-The main risk is that firms use AI adoption as a pathway to reduce headcount. This would weaken worker trust and create political resistance. The mitigation is a clear funding condition: no public funding should support AI projects whose primary business case is headcount reduction.
+The main risk is that firms use AI adoption as a pathway to reduce headcount. This would damage worker trust and create political resistance. The mitigation is a strict funding rule: no public funding should support AI projects whose primary business case is headcount reduction. Supported firms should instead demonstrate worker training, redeployment pathways and consultation.
 
-A second risk is that the pilot becomes too slow or symbolic. The mitigation is to set an 18-month timeline with scale-up triggers, reporting dates and a clear decision to scale, revise or stop.
+A second risk is that the pilot becomes symbolic. Australia should avoid an open-ended trial that produces reports but little adoption. The mitigation is an 18-month timeline with clear scale-up triggers, public reporting and a decision to scale, revise or stop.
 
-A third risk is over-regulation. If safeguards are too broad, they may slow productive AI adoption. The mitigation is a risk-based approach. High-risk uses such as hiring, performance management, rostering and surveillance should require consultation, transparency and human oversight. Low-risk productivity tools should face lighter requirements.
+A third risk is over-regulation. If safeguards apply too broadly, they may slow useful AI adoption. The mitigation is a risk-based approach. High-risk uses such as hiring, performance management, rostering and surveillance should require transparency, consultation and human oversight. Lower-risk productivity tools should face lighter requirements.
+
+A final risk is weak implementation capability. AI adoption requires trust, data governance, secure tools and practical training. This is why the pilot should begin with anchor employers and public agencies that can build reusable templates before diffusion to SMEs.
 
 ---
 
